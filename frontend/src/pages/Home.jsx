@@ -13,7 +13,7 @@ function Home() {
             <div className="kicker">AI Career Intelligence for Engineering Students</div>
 
             <h1 className="hero-title">
-              <span>DevHire AI</span>
+              <span>DevHire</span>
             </h1>
 
             <p className="hero-text">
